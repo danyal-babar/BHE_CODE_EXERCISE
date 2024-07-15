@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\danya\\Downloads\\bhe-code-exercise\\bhe-code-exercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{728E91A2-362F-4E83-9E5B-460CD010892E}|csharp\\Sieve\\Sieve.csproj|c:\\users\\danya\\downloads\\bhe-code-exercise\\bhe-code-exercise\\csharp\\sieve\\sieve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728E91A2-362F-4E83-9E5B-460CD010892E}|csharp\\Sieve\\Sieve.csproj|solutionrelative:csharp\\sieve\\sieve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65FB1C21-6FD7-44D3-9AA1-4E0199525956}|csharp\\Sieve.Tests\\Sieve.Tests.csproj|c:\\users\\danya\\downloads\\bhe-code-exercise\\bhe-code-exercise\\csharp\\sieve.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FB1C21-6FD7-44D3-9AA1-4E0199525956}|csharp\\Sieve.Tests\\Sieve.Tests.csproj|solutionrelative:csharp\\sieve.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,24 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Sieve.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\Downloads\\bhe-code-exercise\\bhe-code-exercise\\csharp\\Sieve\\Sieve.cs",
+              "RelativeDocumentMoniker": "csharp\\Sieve\\Sieve.cs",
+              "ToolTip": "C:\\Users\\danya\\Downloads\\bhe-code-exercise\\bhe-code-exercise\\csharp\\Sieve\\Sieve.cs",
+              "RelativeToolTip": "csharp\\Sieve\\Sieve.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:59:42.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\danya\\Downloads\\bhe-code-exercise\\bhe-code-exercise\\csharp\\Sieve.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "csharp\\Sieve.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\danya\\Downloads\\bhe-code-exercise\\bhe-code-exercise\\csharp\\Sieve.Tests\\UnitTest1.cs",
               "RelativeToolTip": "csharp\\Sieve.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAhwBIAAABCAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwA8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T19:28:04.061Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

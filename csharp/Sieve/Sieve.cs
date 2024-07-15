@@ -1,5 +1,7 @@
 ﻿using System.Collections;
 
+
+// Diyal-babar
 namespace Sieve;
 
 public interface ISieve
@@ -13,13 +15,13 @@ public class SieveImplementation : ISieve
 {
     int MAX_SIZE = 1000000000;
 
-    // To store all prime numbers
+    // To store all prime numbers, used the Arraylist for dynamic storage
     ArrayList primes = new ArrayList();
 
     public long NthPrime(long n)
     {
         // Create a boolean array "IsPrime[0..MAX_SIZE]" 
-        // and initialize all entries it as true. 
+        // and initialize all entries in the array  as true. 
         // A value in IsPrime[i] will finally be false
         // if i is Not a IsPrime, else true. 
         bool[] IsPrime = new bool[MAX_SIZE];
